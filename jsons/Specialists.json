@@ -14,7 +14,7 @@
 	{
 		"name":"Artist",
 		"culture":2,
-		"greatPersonPoints": {"Great Artist":1},
+		"greatPersonPoints": {"Great Artist":2},
 		"color": [160,32,240]
 	},
 	{
