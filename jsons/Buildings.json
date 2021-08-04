@@ -298,7 +298,7 @@
 	{
 		"name": "Amphitheater",
 		"culture": 3,
-		"specialistSlots": {"Great Artist": 1},
+		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -311,37 +311,21 @@
 		"uniques": ["Doubles Gold given to enemy if city is captured"],
 		"culture": 2,
 		"happiness": 2,
-		"specialistSlots": {"Great Artist": 1},
+		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
 		"requiredTech": "Drama and Poetry"
-		// In Vanilla, this replaces Temple and requires Philosophy and a Monument.
-		// In G&K, this still replaces Temple and requires Philosophy, but becomes a faith building
-		// (alongside Temple) and thus requires a Shrine instead of a Monument.
-		// Since faith is not yet implemented, but G&K's Drama and Poetry (which provides the
-		// Amphiteater, a building with the properties of the vanilla Temple) is, this building
-		// temporarily replaces Drama and Poetry and requires a Monument while having its Vanilla
-		// stats, so it's a mish-mash of vanilla and G&K. It should be changed when faith is
-		// implemented.
 	},
 	{
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Amphitheater",
 		"uniqueTo": "Songhai",
 		"maintenance": 0,
-		"specialistSlots": {"Great Artist": 1},
+		"specialistSlots": {"Artist": 1},
 		"hurryCostModifier": 25,
 		"culture": 4,
 		"requiredBuilding": "Monument",
 		"requiredTech": "Drama and Poetry"
-		// In Vanilla, this replaces Temple and requires Philosophy and a Monument.
-		// In G&K, this still replaces Temple and requires Philosophy, but becomes a faith building
-		// (alongside Temple) and thus requires a Shrine instead of a Monument.
-		// Since faith is not yet implemented, but G&K's Drama and Poetry (which provides the
-		// Amphiteater, a building with the properties of the vanilla Temple) is, this building
-		// temporarily replaces Drama and Poetry and requires a Monument while having its Vanilla
-		// stats, so it's a mish-mash of vanilla and G&K. It should be changed when faith is
-		// implemented.
 	},
 	{
 		"name": "National Epic",
@@ -354,7 +338,7 @@
 	{
 		"name": "Market",
 		"gold": 2,
-		"specialistSlots": {"Great Merchant": 1},
+		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
@@ -364,7 +348,7 @@
 		"replaces": "Market",
 		"uniqueTo": "Arabia",
 		"gold": 2,
-		"specialistSlots": {"Great Merchant": 1},
+		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
