@@ -190,7 +190,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 999275,
 		"buildingCost": 120,
@@ -198,14 +198,14 @@
 		"techs": [
 			{
 				"name": "Future Tech1",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Future Tech"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "Don't worry, this is in order to make citis not OP"
 			},
 			{
 				"name": "Future Tech2",
-				"row": 5,
+				"row": 3,
 				"prerequisites": ["Future Tech"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "Don't worry, this is in order to make citis not OP"
@@ -227,7 +227,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 42385,
 		"buildingCost": 160,
@@ -278,7 +278,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Medieval era",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -322,7 +322,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Medieval era",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -366,7 +366,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Medieval era",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -411,7 +411,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Medieval era",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -455,7 +455,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Medieval era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -499,7 +499,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Medieval era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -543,7 +543,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Medieval era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -587,7 +587,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Medieval era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -631,7 +631,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Medieval era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -676,7 +676,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Medieval era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -720,7 +720,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Medieval era",
 		"techCost": 9500,
 		"buildingCost": 750,
