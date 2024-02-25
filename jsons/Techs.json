@@ -175,7 +175,7 @@
 	},
 	{
 		"columnNumber": 5,
-		"era": "Modern era",
+		"era": "Medieval era",
 		"techCost": 99999999999,
 		"buildingCost": 99999,
 		"wonderCost": 999999,
@@ -184,8 +184,17 @@
 				"name": "You... shall not... PASS!!",
 				"row": 6,
 				"prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
-				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...", "Can be continually researched"],
+				"uniques": ["Only available <before discovering [Agriculture]>",
+					"And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...",
+					"Can be continually researched"],
 				"quote": "NO! This isn't supposed how you play the game! You can't pass on from here, I won't allow you. No"
+			},
+			{
+				"name": "Science Campfire",
+				"row": 9,
+				"prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
+				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...",
+					"Can be continually researched"],
 			},
 		]
 	},
